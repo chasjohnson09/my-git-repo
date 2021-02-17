@@ -6,12 +6,12 @@ namespace ObjectOrientedProgrammingTutorial
     {
         static void Main(string[] args)
         {
-            var quad1 = new Quad(3, 4, 5, 6);
+            var quad1 = new Quad(3, 4, 5, 6);   // creates new quad
             Console.WriteLine($"Perimeter of the Quad is {quad1.Perimeter()}");
             Console.WriteLine($"quad1 is a {quad1.Print()}");
             Console.WriteLine($"        ");
 
-            var rect1 = new Rect(5, 7);
+            var rect1 = new Rect(5, 7); // creates new rectangle
 
             Console.WriteLine($"Perimeter of the rectangle is {rect1.Perimeter()}");
             // Console.WriteLine($" about is {rect1.About}");       shows that you cannot pull property from a private property in a class
@@ -19,7 +19,7 @@ namespace ObjectOrientedProgrammingTutorial
             Console.WriteLine($"rect1 is a {rect1.Print()}");
             Console.WriteLine($"        ");
 
-            var sqr1 = new Square(7);
+            var sqr1 = new Square(7);   // creates new 
             Console.WriteLine($" Area of the square is {sqr1.Area()}");
             Console.WriteLine($"Perimeter of the rectangle is {sqr1.Perimeter()}");
             Console.WriteLine($"sqr1 is a {sqr1.Print()}");

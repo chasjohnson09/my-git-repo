@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ObjectOrientedProgrammingTutorial
 {
-    class Square : Rect    // copies all of the properties from the rectangle class and copies them to use for this class
+    class Square : Rect    // copies all of the properties from the rectangle class and places them to use for this class
     {
 
         public override string Print()  // "override" is making polymorphism work
