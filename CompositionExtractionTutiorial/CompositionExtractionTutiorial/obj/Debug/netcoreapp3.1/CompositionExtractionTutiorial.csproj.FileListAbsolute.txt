@@ -1,0 +1,13 @@
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\bin\Debug\netcoreapp3.1\CompositionExtractionTutiorial.exe
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\bin\Debug\netcoreapp3.1\CompositionExtractionTutiorial.deps.json
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\bin\Debug\netcoreapp3.1\CompositionExtractionTutiorial.runtimeconfig.json
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\bin\Debug\netcoreapp3.1\CompositionExtractionTutiorial.runtimeconfig.dev.json
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\bin\Debug\netcoreapp3.1\CompositionExtractionTutiorial.dll
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\bin\Debug\netcoreapp3.1\CompositionExtractionTutiorial.pdb
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.csprojAssemblyReference.cache
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.AssemblyInfoInputs.cache
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.AssemblyInfo.cs
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.csproj.CoreCompileInputs.cache
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.dll
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.pdb
+C:\repos\my-git-repo\CompositionExtractionTutiorial\CompositionExtractionTutiorial\obj\Debug\netcoreapp3.1\CompositionExtractionTutiorial.genruntimeconfig.cache
